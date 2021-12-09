@@ -1,0 +1,5 @@
+.gitignore
+.idea/*
+.idea
+
+TadGAN_temp.ipynb
