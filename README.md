@@ -15,3 +15,10 @@ This repository implements a TadGAN for tensorflow 2.0 version.
 If you want to use the original TadGAN, please visit this -> Orion-ml(https://github.com/signals-dev/Orion)
 Orion-ml can be installed through pip, but tensorflow supported by orion-ml is less than version 2.0. 
 Therefore, please refer to this code when running TadGAN in tensorflow version 2.0 or higher.
+
+[Note]
+현재 Forecasting, Validation 은 구현 중에 있습니다. 코드 대부분이 Orion-ml에서 제공하는 TadGAN tutorial과 
+동일하니, 해당 부분은 Orion-ml에서 제공하는 TadGAN tutorial을 참고 해주세요.
+
+Forecasting, Validation functions are being implemented. Most of the code is based on TadGAN tutorial
+provided by Orion-ml. Please refer to the TadGAN tutorial. 
