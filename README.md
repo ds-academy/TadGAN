@@ -19,6 +19,7 @@ Therefore, please refer to this code when running TadGAN in tensorflow version 2
 [Note]
 현재 Forecasting, Validation 은 구현 중에 있습니다. 코드 대부분이 Orion-ml에서 제공하는 TadGAN tutorial과 
 동일하니, 해당 부분은 Orion-ml에서 제공하는 TadGAN tutorial을 참고 해주세요.
+현재 새로운 환경에서 개발 작업 중 입니다. 
 
 Forecasting, Validation functions are being implemented. Most of the code is based on TadGAN tutorial
 provided by Orion-ml. Please refer to the TadGAN tutorial. 
